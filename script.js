@@ -1,6 +1,6 @@
 function changeLanguage(lang) {
     if (lang === 'fr') {
-        window.location.href = 'index-fr.html';
+        window.location.href = 'index.html';
     } else if (lang === 'en') {
         window.location.href = 'index-en.html';
     }
